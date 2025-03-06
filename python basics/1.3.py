@@ -1,0 +1,10 @@
+my_int=10
+my_boolean=False
+my_char='S'
+my_float=23.2
+my_double=34.678908123
+print("integer:",my_int)
+print("boolean:",my_boolean)
+print("character:",my_char)
+print("float:",my_float)
+print("double:",my_double)
